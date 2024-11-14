@@ -1,0 +1,12 @@
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\bin\Debug\AccesModDemo2.exe.config
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\bin\Debug\AccesModDemo2.exe
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\bin\Debug\AccesModDemo2.pdb
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\bin\Debug\ConsoleApp1.exe
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\bin\Debug\ConsoleApp1.pdb
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\bin\Debug\ConsoleApp1.exe.config
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\obj\Debug\AccesModDemo2.csproj.AssemblyReference.cache
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\obj\Debug\AccesModDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\obj\Debug\AccesModDemo2.csproj.CoreCompileInputs.cache
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\obj\Debug\AccesModDemo2.csproj.CopyComplete
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\obj\Debug\AccesModDemo2.exe
+C:\Users\TechExtensor - 160\OneDrive\Desktop\learnings\csharp-learnings\ConsoleApp1\AccesModDemo2\obj\Debug\AccesModDemo2.pdb
